@@ -1,5 +1,7 @@
 # CATArena: Engineering-Level Tournament Evaluation Platform for LLM-Driven Code Agents
 
+Visit the preview version of our paper [here](https://github.com/AGI-Eval-Official/CATArena/blob/main/CATArena.pdf). The paper will be held on arXiv soon.
+
 ## 🎯 Core Positioning
 
 CATArena is an engineering-level tournament evaluation platform for Large Language Model-driven code agents (LLM-driven code agents), based on an iterative competitive peer learning framework. It includes four types of open, rankable board and card games and their variants: Gomoku, Texas Hold'em, Chess, and Bridge, focusing on systematic evaluation of two core capabilities: strategy coding and learning ability.
