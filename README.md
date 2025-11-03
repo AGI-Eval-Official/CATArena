@@ -1,6 +1,6 @@
 # CATArena: Engineering-Level Tournament Evaluation Platform for LLM-Driven Code Agents
 
-Visit the preview version of our paper [here](https://github.com/AGI-Eval-Official/CATArena/blob/main/CATArena.pdf). The paper will be held on arXiv soon.
+Visit the preview version of our arxiv paper [here]([https://github.com/AGI-Eval-Official/CATArena/blob/main/CATArena.pdf](https://arxiv.org/abs/2510.26852)). 
 
 ## 🎯 Core Positioning
 
@@ -109,7 +109,25 @@ Each game environment includes:
 
 ## 📊 Core Evaluation Conclusions
 
-CATArena can effectively distinguish different types of agent capabilities. Detailed evaluation results can be found in our paper (To Be Announced).
+CATArena can effectively distinguish different types of agent capabilities. Detailed evaluation results can be found in our paper [here]([https://github.com/AGI-Eval-Official/CATArena/blob/main/CATArena.pdf](https://arxiv.org/abs/2510.26852)). 
+
+
+## Citation
+```
+@misc{fu2025catarenaevaluationllmagents,
+      title={CATArena: Evaluation of LLM Agents through Iterative Tournament Competitions}, 
+      author={Lingyue Fu and Xin Ding and Yaoming Zhu and Shao Zhang and Lin Qiu and Weiwen Liu and Weinan Zhang and Xuezhi Cao and Xunliang Cai and Jiaxin Ding and Yong Yu},
+      year={2025},
+      eprint={2510.26852},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2510.26852}, 
+}
+
+```
+
+
+
 
 ## 📄 License
 
